@@ -1,2 +1,2 @@
-Created new file in TortoiseGit in Branch 2. 
+Created new file in TortoiseGit in Branch 2. Edit form branch 1
 Edit from branch 2
