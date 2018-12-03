@@ -1,1 +1,1 @@
-This is the First File created on the Local Repository.
+This is the First File and it was created on the Local Repository.
