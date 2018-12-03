@@ -1,1 +1,5 @@
-This is a new file created in Branch 2.This file with some conflicts is created in branch1.
+1. This is a new file created in Branch 
+
+Again some changes made in this file.
+
+2.This file with some conflicts is created in branch1.
